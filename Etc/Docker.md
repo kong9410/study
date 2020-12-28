@@ -74,3 +74,13 @@ Docker는 단일 컨테이너 관리에 적합하도록 만들어져있다. 수�
 
 ![Image Layering Using Docker Format](https://access.redhat.com/webassets/avalon/d/Red_Hat_Enterprise_Linux-7-7.0_Release_Notes-en-US/images/440aa214d60c93edebd6b4522fffe54f/docker_structure.png)
 
+
+
+
+
+## 도커 볼륨
+
+이미지는 읽기 전용이고 변경 사항만 컨테이너 계층에 저장이 된다. 컨테이너가 삭제되면 변경된 데이터가 모두 삭제된다. 그리고 복구할 수가 없다. 이를 방지하기 위해 컨테이너의 데이터를 영속적으로 활용할 수 있는 방법 중 하나가 볼륨이다.
+
+
+
