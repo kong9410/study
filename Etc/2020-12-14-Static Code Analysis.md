@@ -1,3 +1,8 @@
+---
+title: 정적 분석(Static Analysis)
+tags: 정적분석, CI
+---
+
 # 정적 분석
 
 ![Stay Ahead of the Glitch with Static Code Analysis - Blog - Sevaa Group](https://sevaa.com/app/uploads/2018/09/ft-image-static-analysis.png)
