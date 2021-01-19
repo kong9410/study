@@ -282,3 +282,7 @@ registry:2.6
 ```
 
 만일 이후에 새로운 값을 사용해야 한다면 `docker service update` 명령어의 `--config-rm` `--config-add` `--secret-rm` `--secret-add` 옵션을 사용해 추가하거나 삭제할 수 있다.
+
+# 출처
+
+시작하세요! 도커/쿠버네티스(개정판), 용찬호 지음

@@ -138,3 +138,6 @@ ewkgh1qli9wvpayxaeqbikidh *   swarm-manager   Ready     Active         Leader   
 lxqz76lzffifj25um47ebgx19     swarm-worker1   Ready     Active                          20.10.2
 ```
 
+# 출처
+
+시작하세요! 도커/쿠버네티스(개정판), 용찬호 지음
